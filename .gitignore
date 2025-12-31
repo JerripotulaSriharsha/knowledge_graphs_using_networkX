@@ -10,7 +10,7 @@ __pycache__/
 .venv/
 venv/
 ENV/
-
+lib/
 # Distribution / packaging
 build/
 dist/

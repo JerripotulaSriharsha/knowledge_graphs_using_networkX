@@ -3,8 +3,15 @@ name = "knowledge-graphs-using-networkx"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11,<3.13"
 dependencies = [
+    "gensim>=4.4.0",
+    "matplotlib>=3.10.8",
     "networkx>=3.6.1",
+    "pandas>=2.3.3",
     "pyvis>=0.3.2",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.16.3",
+    "sentence-transformers>=5.2.0",
+    "spacy>=3.8.11",
 ]
