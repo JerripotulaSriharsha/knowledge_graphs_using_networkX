@@ -36,3 +36,8 @@ htmlcov/
 # IDE/editor
 .vscode/
 .idea/
+
+# ragtest generated artifacts
+ragtest/cache/
+ragtest/output/
+ragtest/logs/
